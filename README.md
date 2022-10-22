@@ -8,14 +8,12 @@
 
 ## Languages:
 
-* Battle Scripts:
-* Levels:
-* Notes
-
 <details><summary>Python:</summary>
 <p>
 
-  We can hide anything, even code!
+  * Battle Scripts: [Hozaifa](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Python/hozaifa-battles.py) - [Amar](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Python/amar-battles.py)
+  * Levels: [Hozaifa](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Python/hozaifa-levels.py) - [Amar](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Python/amar-levels.py)
+  * [Notes 1](https://www.w3schools.com/python/python_ref_glossary.asp) - [Notes 2](https://www.w3schools.com/python/python_ref_glossary.asp)
 
 </p>
 </details>
