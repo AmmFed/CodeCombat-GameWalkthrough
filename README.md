@@ -1,11 +1,10 @@
-![CodeCombat](https://i.imgur.com/pThWNw2.png#gh-dark-mode-only)
-![CodeCombat](https://i.imgur.com/i4oz1Kw.png#gh-light-mode-only)
-
-<h3 align="center">[CodeCombat](https://codecombat.com/)</h3>
+![CodeCombat](https://i.imgur.com/YrTD0Oh.png#gh-dark-mode-only)
+![CodeCombat](https://i.imgur.com/hWymQyD.png#gh-light-mode-only)
 
 # [CodeCombat](https://codecombat.com/) Game Walkthrough
 
-* Languages
-Python:
-* Battle Scripts
-* Levels
+* Python:
+* Battle Scripts:
+* Levels:
+* Notes
+
