@@ -6,8 +6,6 @@
 
 # [CodeCombat](https://codecombat.com/) Game Walkthrough
 
-## Languages:
-
 <details><summary>Python:</summary>
 <p>
 
