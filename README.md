@@ -6,8 +6,16 @@
 
 # [CodeCombat](https://codecombat.com/) Game Walkthrough
 
-* Python:
+## Languages:
+
 * Battle Scripts:
 * Levels:
 * Notes
 
+<details><summary>Python:</summary>
+<p>
+
+  We can hide anything, even code!
+
+</p>
+</details>
