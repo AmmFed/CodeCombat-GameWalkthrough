@@ -1,8 +1,6 @@
-# CodeCombatWalkthrough
-*[CodeCombat](https://codecombat.com/) is an educational video game for learning software programming concepts and languages.*
+# [CodeCombat](https://codecombat.com/) Game Walkthrough
 
 * Notes
 * Languages
-
-* Levels Walkrthrough
+* Levels
 * Battle Scripts
