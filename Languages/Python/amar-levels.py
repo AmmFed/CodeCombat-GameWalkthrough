@@ -12,3 +12,5 @@ hero.buildXY("fire-trap", 72, 25)
 hero.moveXY(77, 15)
 hero.moveXY(54, 17)
 hero.moveXY(73, 64)
+
+#M
