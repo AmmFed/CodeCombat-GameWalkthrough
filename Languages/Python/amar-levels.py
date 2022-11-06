@@ -55,7 +55,7 @@ while True:
     if evilstone and evilstone.pos.x == 34:
         hero.moveXY(46, 23)
     
-    # When evilstone exits but is not to the left:
+    # When evilstone exists but is not to the left:
     elif evilstone and evilstone.pos.x != 34:
         hero.moveXY(34, 22)
     
