@@ -1,4 +1,5 @@
-#M1:L1~L19 are all straight-forward from "Dungeons of Kithgard" to "Kithgard Gates"
+#M1:L1~L19 are all straight-forward 
+#from "Dungeons of Kithgard" to "Kithgard Gates"
 
 #M2:L2 "Winding Trail"
 #Getting all the gems trick
@@ -37,7 +38,8 @@ while True:
 while True:
     hero.attack("Chest")
     enemy = hero.findNearestEnemy()
-    if enemy and hero.distanceTo(enemy) < 5 and hero.isReady("cleave"): #Use three lines in one line
+    #Use three lines in one line
+    if enemy and hero.distanceTo(enemy) < 5 and hero.isReady("cleave"): 
         hero.cleave(enemy)
     elif enemy and hero.distanceTo(enemy) < 5: #Use two lines in one line
         hero.attack(enemy)
