@@ -41,5 +41,6 @@ while True:
     #Use three lines in one line
     if enemy and hero.distanceTo(enemy) < 5 and hero.isReady("cleave"): 
         hero.cleave(enemy)
-    elif enemy and hero.distanceTo(enemy) < 5: #Use two lines in one line
+    #Use two lines in one line
+    elif enemy and hero.distanceTo(enemy) < 5: 
         hero.attack(enemy)
