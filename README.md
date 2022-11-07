@@ -11,7 +11,7 @@
 
   * Battle Scripts: [Hozaifa](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Python/hozaifa-battles.py) - [Amar](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Python/amar-battles.py)
   * Levels: [Hozaifa](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Python/hozaifa-levels.py) - [Amar](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Python/amar-levels.py)
-  * Notes: [Ref1](https://www.w3schools.com/python/python_ref_glossary.asp) - [Ref2](https://docs.python.org/3/glossary.html)
+  * Notes: [Gloss1](https://www.w3schools.com/python/python_ref_glossary.asp) - [Gloss2](https://docs.python.org/3/glossary.html) - [Style1](https://realpython.com/python-pep8/#tips-and-tricks-to-help-ensure-your-code-follows-pep-8) - [Style2](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
 
 </p>
 </details>
