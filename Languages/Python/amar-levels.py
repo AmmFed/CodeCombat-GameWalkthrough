@@ -50,15 +50,32 @@ while True:
 # walking the other direction.
 while True:
     evilstone = hero.findNearestItem()
-    
     # When evilstone exists and is to the left:
     if evilstone and evilstone.pos.x == 34:
         hero.moveXY(46, 23)
-    
     # When evilstone exists but is not to the left:
     elif evilstone and evilstone.pos.x != 34:
         hero.moveXY(34, 22)
-    
     # When evilstone is not there
     else:
         hero.moveXY(40, 22)
+
+# M2:L12 "Village Rover"
+# Define functions that will be used
+# This function checks for enemies and then attacks them
+def findAndAttack():
+    enemy = hero.findNearestEnemy()
+    if enemy:
+        hero.attack(enemy)
+
+# Create a while-true loop to keep looking for enemies
+# and protecting the peasents moving back-and-forth
+while True:
+    # Move to the left defense spot
+    hero.moveXY(35, 34)
+    # Look for any enemies
+    findAndAttack()
+    # Move to the right defense spot
+    hero.moveXY(60, 31)
+    # Look for any enemies
+    findAndAttack()
