@@ -4,7 +4,7 @@
   <img alt="text" src="https://user-images.githubusercontent.com/114851245/197361566-35a462cd-337b-4d2f-b60f-ca0d88e072de.png">
 </picture>
 
-# [CodeCombat](https://codecombat.com/) Game Walkthrough
+# Collaborative [CodeCombat](https://codecombat.com/) Game Walkthrough
 
 <details><summary>Python:</summary>
 <p>
