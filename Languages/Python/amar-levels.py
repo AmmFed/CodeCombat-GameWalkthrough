@@ -126,4 +126,43 @@ while True:
     cleaveWhenCloseOrAttack(hero.findNearestEnemy()) # Cleave or attack enemies
 
 
+# M2:L15 "Friend and Foe"
+# Peasants and peons are gathering in the forest.
+# Command the peasants to battle and the peons to go away!
 
+while True:
+    friend = hero.findNearestFriend()
+    if friend:
+        hero.say("To battle, " + friend.id + "!")
+    enemy = hero.findNearestEnemy()
+    if enemy:
+        hero.say("Go away, " + enemy.id + "!")
+
+
+# M2:L16 "The Wizards Door"
+# Move to Laszlo and ask
+hero.moveXY(30, 13)
+hero.say("Sup!")
+# Get secret pass from Laszlo using "getSecret()" method
+las = hero.findNearestFriend().getSecret()
+# Store the result from Laszlo's formula in a variable
+erz = las + 7
+
+# Move to Erzsebet and tell
+hero.moveXY(17, 26)
+hero.say(erz)
+# Store the result from Erzsebet's formula in a variable
+sim = erz / 4
+
+# Move to Simonyi and ask
+hero.moveXY(30, 39)
+hero.say(sim)
+# Store the result from Simonyi's formula in a variable
+agata = sim * las
+
+# Move to Agata and ask
+hero.moveXY(43, 26)
+hero.say(agata)
+
+
+# M2:L17 ""
