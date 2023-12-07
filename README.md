@@ -11,7 +11,7 @@
 
   * [C++ Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-battles.py)
   * [C++ Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-levels.py)
-  * C++ Ref(s): [Ref1](https://link.something) - [Ref2](https://link.something)
+  * C++ Ref(s): [Gloss](https://stroustrup.com/glossary.html) - [Ref](https://stroustrup.com/glossary.html) - [Style](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
 
 </p>
 </details>
