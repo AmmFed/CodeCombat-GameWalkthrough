@@ -6,7 +6,15 @@
 
 # My [CodeCombat](https://codecombat.com/) Game Walkthrough
 
-## Players: [Amar](https://github.com/AmmFed)
+<details><summary>C++:</summary>
+<p>
+
+  * [My Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-battles.py)
+  * [My Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-levels.py)
+  * My Notes: [Note1](https://link.something) - [Note2](https://link.something)
+
+</p>
+</details>
 
 <details><summary>Python:</summary>
 <p>
