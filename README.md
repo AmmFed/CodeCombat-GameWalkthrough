@@ -9,9 +9,9 @@
 <details><summary>C++:</summary>
 <p>
 
-  * [C++ Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-battles.py)
-  * [C++ Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-levels.py)
-  * C++ Ref(s): [Gloss](https://stroustrup.com/glossary.html) - [Ref](https://en.cppreference.com/w/) - [CoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
+  * [Java Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Java/amar-battles.java)
+  * [Java Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Java/amar-levels.java)
+  * Java Ref(s): [Gloss](https://www.oracle.com/java/technologies/glossary.html) - [Style1](https://www.developer.com/languages/javascript/java-best-practices/) - [Style2](https://google.github.io/styleguide/javaguide.html)
 
 </p>
 </details>
