@@ -6,7 +6,7 @@
 
 # My [CodeCombat](https://codecombat.com/) Game Walkthrough
 
-<details><summary>Java:</summary>
+<details><summary>JavaScript:</summary>
 <p>
 
   * [JavaScript Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/JavaScript/amar-battles.js)
