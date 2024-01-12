@@ -21,7 +21,7 @@
 
   * [JavaScript Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/JavaScript/amar-battles.js)
   * [JavaScript Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/JavaScript/amar-levels.js)
-  * JavaScript Ref(s): [Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - [Gloss](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - [Style](https://google.github.io/styleguide/jsguide.html).
+  * JavaScript Ref(s): [Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - [Style](https://google.github.io/styleguide/jsguide.html). - [Gloss](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference).
 
 </p>
 </details>
