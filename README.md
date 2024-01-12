@@ -9,9 +9,9 @@
 <details><summary>Java:</summary>
 <p>
 
-  * [Java Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Java/amar-battles.java)
-  * [Java Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/Java/amar-levels.java)
-  * Java Ref(s): [Gloss](https://www.oracle.com/java/technologies/glossary.html) - [Style1](https://www.developer.com/languages/javascript/java-best-practices/) - [Style2](https://google.github.io/styleguide/javaguide.html)
+  * [JavaScript Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/JavaScript/amar-battles.js)
+  * [JavaScript Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/JavaScript/amar-levels.js)
+  * JavaScript Ref(s): [Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - [Ref](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - [Style](https://google.github.io/styleguide/jsguide.html).
 
 </p>
 </details>
