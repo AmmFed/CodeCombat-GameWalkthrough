@@ -6,6 +6,16 @@
 
 # My [CodeCombat](https://codecombat.com/) Game Walkthrough
 
+<details><summary>CPP:</summary>
+<p>
+
+  * [CPP Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/CPP/amar-battles.js)
+  * [CPP Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/CPP/amar-levels.js)
+  * CPP Ref(s): [Gloss](https://developer.mozilla.org/en-US/docs/Web/CPP/Reference) - [Guide](https://developer.mozilla.org/en-US/docs/Web/CPP/Guide) - [Style](https://google.github.io/styleguide/jsguide.html)
+
+</p>
+</details>
+
 <details><summary>Python:</summary>
 <p>
 
@@ -16,12 +26,4 @@
 </p>
 </details>
 
-<details><summary>JavaScript:</summary>
-<p>
 
-  * [JavaScript Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/JavaScript/amar-battles.js)
-  * [JavaScript Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/JavaScript/amar-levels.js)
-  * JavaScript Ref(s): [Gloss](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - [Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - [Style](https://google.github.io/styleguide/jsguide.html)
-
-</p>
-</details>
