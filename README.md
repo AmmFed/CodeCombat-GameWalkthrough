@@ -11,7 +11,7 @@
 
   * [C++ Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-battles.cpp)
   * [C++ Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-levels.cpp)
-  * C++ Ref(s): [Ref1](https://en.cppreference.com/w/) - [Ref2](https://cplusplus.com/reference/) - [Style](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rp-direct)
+  * C++ Ref(s): [Ref1](https://en.cppreference.com/w/) - [Ref2](https://cplusplus.com/reference/) - [Style1](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rp-direct) - [Style2 (Google's)](https://google.github.io/styleguide/cppguide.html)
 
 </p>
 </details>
