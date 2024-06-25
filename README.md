@@ -6,12 +6,12 @@
 
 # My [CodeCombat](https://codecombat.com/) Game Walkthrough
 
-<details><summary>CPP:</summary>
+<details><summary>C++:</summary>
 <p>
 
-  * [CPP Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/CPP/amar-battles.js)
-  * [CPP Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/CPP/amar-levels.js)
-  * CPP Ref(s): [Gloss](https://developer.mozilla.org/en-US/docs/Web/CPP/Reference) - [Guide](https://developer.mozilla.org/en-US/docs/Web/CPP/Guide) - [Style](https://google.github.io/styleguide/jsguide.html)
+  * [C++ Battle Scripts](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-battles.js)
+  * [C++ Levels](https://github.com/AmmFed/CodeCombat-GameWalkthrough/blob/main/Languages/C++/amar-levels.js)
+  * C++ Ref(s): [Gloss](https://developer.mozilla.org/en-US/docs/Web/C++/Reference) - [Guide](https://developer.mozilla.org/en-US/docs/Web/C++/Guide) - [Style](https://google.github.io/styleguide/jsguide.html)
 
 </p>
 </details>
